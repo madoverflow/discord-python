@@ -8,7 +8,7 @@ Hi guys,
 
 you can find a few free simple bots made by me in this repository. Every bot runs
 different functions to manage your server discord. You can create an unique bot with all functions.
-It's absolutly free so **ENJOY** it. If you have some questions, you can contact me.
+It's absolutely free so **ENJOY** it. If you have some questions, you can contact me.
 
 Best regards.
 

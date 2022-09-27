@@ -48,7 +48,7 @@ This Python script uses the follow globals variables
 I'm a computer science student in [UNIPA](https://www.unipa.it/)
 ## 🔗 Links
 [![telegram](https://img.shields.io/static/v1?label=Telegram&message=Link&color=blue)](https://t.me/emanuelecastronovo)
-[![discord](https://img.shields.io/static/v1?label=Discord&message=@xAstyle9116&color=blueviolet)](https://discord.com/)
+[![discord](https://img.shields.io/static/v1?label=Discord&message=@madoverflow9116&color=blueviolet)](https://discord.com/)
 
 ## 🖥 Known programming languages
 C, Java, Python, PHP
